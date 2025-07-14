@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Shubham-Pochhali/DSA/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Shubham-Pochhali/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Shubham-Pochhali/DSA/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Shubham-Pochhali/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Shubham-Pochhali/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Shubham-Pochhali/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Shubham-Pochhali/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shubham-Pochhali/DSA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Shubham-Pochhali/DSA/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/Shubham-Pochhali/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Shubham-Pochhali/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shubham-Pochhali/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-Pochhali/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shubham-Pochhali/DSA/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/Shubham-Pochhali/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Union Find
 |  |
 | ------- |
