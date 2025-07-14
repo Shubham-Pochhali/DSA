@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shubham-Pochhali/DSA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Shubham-Pochhali/DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Shubham-Pochhali/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shubham-Pochhali/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Shubham-Pochhali/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Shubham-Pochhali/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shubham-Pochhali/DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Shubham-Pochhali/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Shubham-Pochhali/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Union Find
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shubham-Pochhali/DSA/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/Shubham-Pochhali/DSA/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
