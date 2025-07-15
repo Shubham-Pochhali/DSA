@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Shubham-Pochhali/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Shubham-Pochhali/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shubham-Pochhali/DSA/tree/master/0169-majority-element) |
+| [0287-find-the-duplicate-number](https://github.com/Shubham-Pochhali/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-Pochhali/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/Shubham-Pochhali/DSA/tree/master/0792-binary-search) |
 ## Hash Table
@@ -89,10 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shubham-Pochhali/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Shubham-Pochhali/DSA/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shubham-Pochhali/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shubham-Pochhali/DSA/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Shubham-Pochhali/DSA/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shubham-Pochhali/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
