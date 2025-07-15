@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shubham-Pochhali/DSA/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Pochhali/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-Pochhali/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Shubham-Pochhali/DSA/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/Shubham-Pochhali/DSA/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shubham-Pochhali/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shubham-Pochhali/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-Pochhali/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Shubham-Pochhali/DSA/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Pochhali/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Shubham-Pochhali/DSA/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/Shubham-Pochhali/DSA/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -104,4 +107,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Pochhali/DSA/tree/master/0287-find-the-duplicate-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Shubham-Pochhali/DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Shubham-Pochhali/DSA/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Shubham-Pochhali/DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Shubham-Pochhali/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
