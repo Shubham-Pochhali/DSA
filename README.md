@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham-Pochhali/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shubham-Pochhali/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shubham-Pochhali/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shubham-Pochhali/DSA/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shubham-Pochhali/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-Pochhali/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Shubham-Pochhali/DSA/tree/master/0493-reverse-pairs) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Shubham-Pochhali/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Shubham-Pochhali/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shubham-Pochhali/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shubham-Pochhali/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-Pochhali/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shubham-Pochhali/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shubham-Pochhali/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shubham-Pochhali/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shubham-Pochhali/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-Pochhali/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shubham-Pochhali/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shubham-Pochhali/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-Pochhali/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
